@@ -1,0 +1,16 @@
+{
+  "appId": "pe.lawliet.metafisicaadvance",
+  "appName": "Metafísica Advance",
+  "webDir": "www",
+  "backgroundColor": "#12102a",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
