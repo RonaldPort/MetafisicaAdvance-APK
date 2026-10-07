@@ -2,7 +2,7 @@
 
 **Adaptación Android** de [Metafísica Advance](https://github.com/ontoterrorist/metafisica-advance), el juego de rol con aspecto de consola portátil para aprender metafísica creado por [@ontoterrorist](https://github.com/ontoterrorist). Este repositorio lo empaqueta como **aplicación instalable (APK)** que funciona sin conexión, conserva la partida y añade una despedida animada con los lógicos y filósofos analíticos del siglo XX.
 
-> El juego, sus textos, gráficos, música y personajes son obra de su autor original. Esta adaptación solo añade la carpeta [`APK/`](APK/). Ver [CREDITOS.md](CREDITOS.md) · [Descripción del juego original](README_JUEGO.md) · [Jugar en el navegador](https://ontoterrorist.github.io/metafisica-advance/)
+> El juego, sus textos, gráficos, música y personajes son obra de su autor original. Esta adaptación solo añade la carpeta [`APK/`](APK/). Ver [CREDITOS.md](CREDITOS.md) · [Jugar en el navegador](https://ontoterrorist.github.io/metafisica-advance/)
 
 ![Portada, desfile de la despedida y foto final en vertical](APK/capturas/apk-despedida.png)
 
