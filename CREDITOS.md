@@ -17,4 +17,4 @@ Solo la carpeta [`APK/`](APK/) es nueva: empaqueta el juego como aplicación And
 - Código secreto con los botones de la consola.
 - Botón «atrás» de Android, pantalla completa, icono y pantalla de arranque.
 
-Adaptación Android: Lawliet.
+Adaptación Android: Lawliet. (Gran parte de la lógica de trabajo y los scripts fueron generados por Claude Opus 5.5, el repositorio pretende divulgar sin dar créditos que ignoren el uso de IA generativa)
